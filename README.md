@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=AC5CF7&center=true&vCenter=true&width=500&lines=Hola,+soy+Ceci+Lara;Full+Stack+Developer;+Java+%7C+Android+%7C+Web+%7C+SQL+;Siempre+aprendiendo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=AC5CF7&center=true&vCenter=true&width=500&lines=Hola,+soy+Ceci+Lara;Full+Stack+Developer;+Web+%7C+Android+%7C+Javascript+%7C+SQL+;Siempre+aprendiendo..." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,7 +16,7 @@
 
   **Lenguajes**
   <br>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,php,js,html,vb,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,java,kotlin,vb,cs&theme=dark" />
 
   <br><br>
 
